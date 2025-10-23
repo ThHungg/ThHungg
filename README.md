@@ -7,7 +7,7 @@
 
 📫 Contact me:  
 - ✉️ Email:hungthanhdang05@gmail.com  
-- [![Facebook]([https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/yourusername](https://www.facebook.com/ThHungg05/))
+- 📘 Facebook: https://www.facebook.com/ThHungg05/
 
 
 ---
