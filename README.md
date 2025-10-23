@@ -1,22 +1,21 @@
 # 👋 Hi, I'm Thành Hưng
 
-🚀 Fullstack Developer | React | Node.js | MySQL  
+🚀 Fullstack Developer | React | Node.js | MySQL  | MongoDB
 💡 I love building beautiful, performant web applications.
 
-🌱 I'm currently learning **Next.js, AI APIs, and DevOps**
+🌱 I'm currently learning Next.js, React.js, and Node.js
 
 📫 Contact me:  
-- ✉️ Email: your.email@gmail.com  
-- 💼 [LinkedIn](https://linkedin.com/in/yourname)  
-- 🌐 [Portfolio](https://your-portfolio.com)
+- ✉️ Email:hungthanhdang05@gmail.com  
+- [![Facebook]([https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/yourusername](https://www.facebook.com/ThHungg05/))
+
 
 ---
 
 ### ⚙️ My Tech Stack
 💻 Languages: JavaScript, TypeScript, Python  
-🧰 Frameworks: React, Next.js, Express, NestJS  
+🧰 Frameworks: React, Next.js, Express, Node.js
 🗄️ Databases: MySQL, MongoDB  
-☁️ Cloud: Vercel, AWS
 
 ---
 
