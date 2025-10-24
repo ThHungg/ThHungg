@@ -1,9 +1,7 @@
-<div align="center">
+# 👋 Hi, I'm **Thành Hưng**
 
-# ✨👋 Hi, I'm <span style="color:#ff6ec7;">Thành Hưng</span>
-
-🚀 <b>Fullstack Developer</b> | React ⚛️ | Node.js 🟩 | MySQL 🐬 | MongoDB 🍃  
-💡 <i>I love building beautiful, performant web applications.</i>
+🚀 **Fullstack Developer** | React ⚛️ | Node.js 🟩 | MySQL 🐬 | MongoDB 🍃  
+💡 _I love building beautiful, performant web applications._
 
 🌱 Currently learning **Next.js**, **React.js**, and **Node.js**
 
@@ -28,22 +26,17 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=thanhhungdev&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=thanhhungdev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhhungdev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=thanhhungdev&theme=radical&hide_border=true)  
+![Hưng's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanhhungdev&show_icons=true&theme=radical&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhhungdev&layout=compact&theme=radical&hide_border=true)
 
 ---
 
-## 🌈 Quote of the Day
+## 🧠 Quote of the Day
 
-> “<i>Code is like humor. When you have to explain it, it’s bad.</i>” 💬
+> “_Code is like humor. When you have to explain it, it’s bad._” 💬
 
 ---
 
-⭐️ *Thanks for visiting my profile! Feel free to connect 💬*
-
+⭐️ _Thanks for visiting my profile! Feel free to connect 💬_  
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-</div>
