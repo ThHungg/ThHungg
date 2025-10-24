@@ -1,3 +1,8 @@
+<div align="center" style="background-image: url('https://i.imgur.com/xxxxxx.jpg'); background-size: cover; padding: 40px;">
+  <h1 style="color:white;">👋 Xin chào, mình là Hưng</h1>
+  <p style="color:white;">Dev đam mê xây dựng những thứ nhỏ nhưng “chất”</p>
+</div>
+
 # 👋 Hi, I'm Thành Hưng
 
 🚀 Fullstack Developer | React | Node.js | MySQL  | MongoDB
