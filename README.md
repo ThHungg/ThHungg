@@ -13,7 +13,7 @@
 ## ⚙️ Tech Stack
 
 **Languages**  
-<img src="https://skillicons.dev/icons?i=js,ts,python" height="40" />
+<img src="https://skillicons.dev/icons?i=js,ts" height="40" />
 
 **Frameworks & Libraries**  
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" height="40" />
