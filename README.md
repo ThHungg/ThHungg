@@ -25,6 +25,8 @@
 ---
 
 ### 📊 GitHub Stats
+![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thanhhungdev&theme=radical)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thanhhungdev&theme=radical)
 ![Hưng's Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thanhhungdev&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=thanhhungdev&theme=radical&hide_border=true)
 ![Hưng's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanhhungdev&show_icons=true&theme=radical)
