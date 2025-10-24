@@ -28,10 +28,6 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=thanhhungdev&theme=radical&hide_border=true)
 ![Hưng's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanhhungdev&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhhungdev&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=thanhhungdev&theme=radical&hide_border=true)
-![Hưng's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thanhhungdev&theme=radical)
-![Hưng's Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thanhhungdev&theme=radical)
-
 ---
 
 ### 🧠 Quote of the Day
