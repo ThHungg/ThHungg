@@ -29,12 +29,12 @@
 ## 📊 GitHub Analytics
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=thhungg&show_icons=true&theme=radical&hide_border=true&border_radius=20&include_all_commits=true&count_private=true" height="170" />
-  <img src="https://streak-stats.demolab.com?user=thanhhungdev&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThHungg&show_icons=true&theme=radical&hide_border=true&border_radius=20&include_all_commits=true&count_private=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=ThHungg&theme=radical&hide_border=true" height="150" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhhungdev&layout=compact&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThHungg&layout=compact&theme=radical&hide_border=true" height="150" />
 </p>
 
 ---
