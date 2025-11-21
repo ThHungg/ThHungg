@@ -6,6 +6,7 @@
 🌱 Currently exploring **Next.js**, **React.js**, and **Node.js**  
 📫 Reach me at:  
 [![Gmail](https://img.shields.io/badge/Gmail-hungthanhdang05%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hungthanhdang05@gmail.com)
+<br/>
 [![Facebook](https://img.shields.io/badge/Facebook-ThHungg05-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/ThHungg05/)
 
 ---
