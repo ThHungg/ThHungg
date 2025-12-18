@@ -20,40 +20,6 @@
 
 
 
----
-
-
-
-## ⚙️ Tech Stack
-
-
-
-**Languages**  
-
-<img src="https://skillicons.dev/icons?i=js,ts" height="40" />
-
-
-
-**Frameworks & Libraries**  
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" height="40" />
-
-
-
-**Databases**  
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" height="40" />
-
-
-
-**Tools & Platforms**  
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="40" />
-
-
-
----
-
 <div align="center">
 
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" />
