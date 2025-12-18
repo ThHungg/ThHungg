@@ -2,7 +2,7 @@
 
 
 
-🚀 **Web Fullstack Developer** — React ⚛️ | Node.js  | MySQL 🐬 | MongoDB 🍃  
+🚀 **Web Fullstack Developer** — React | Next.js | Node.js  | MySQL  | MongoDB  
 
 💡 _I love building beautiful, performant web applications that make an impact._
 
