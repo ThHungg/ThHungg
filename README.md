@@ -13,27 +13,15 @@
 
 ---
 
-### 👨‍💻 Vài nét về tôi
-
-- 🔭 Hiện tại tôi đang phát triển các ứng dụng Web/Mobile đa nền tảng và nghiên cứu tích hợp AI vào sản phẩm.
-- 🌱 Đang tập trung nâng cao kỹ năng về **Next.js, Node.js, Golang** và kiến trúc hệ thống hiệu năng cao.
-- 👯 Tôi luôn sẵn sàng hợp tác trong các dự án Open Source hoặc các sản phẩm sáng tạo.
-- 💬 Hãy hỏi tôi về: **Full-Stack Development, React Native, hoặc cách tối ưu hóa Database.**
-- ⚡ Fun fact: Khi không code, tôi có thể đang "try hard" tối ưu phần cứng máy tính để cày game hoặc đang trau dồi thêm tiếng Pháp. 🇫🇷
-
----
-
-### 🛠️ Tech Stack của tôi
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mysql,mongodb,golang,ts,tailwind&perline=8" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mysql,mongodb,ts,tailwind&perline=8" />
   </a>
 </div>
 
 ---
 
-### 📊 Thống kê hoạt động
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ThHungg&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff4b2b" width="48%" />
@@ -42,7 +30,6 @@
 
 ---
 
-### 🐍 Biểu đồ đóng góp
 
 <div align="center">
   <picture>
