@@ -24,3 +24,16 @@
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" />
 
 </div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThHungg05/ThHungg05/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThHungg05/ThHungg05/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ThHungg05/ThHungg05/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThHungg05&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff4b2b" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThHungg05&theme=tokyonight&hide_border=true&title_color=ff4b2b" width="48%" />
+</div>
