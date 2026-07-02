@@ -24,7 +24,6 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThHungg&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff4b2b" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThHungg&theme=tokyonight&hide_border=true&title_color=ff4b2b" width="48%" />
 </div>
 
